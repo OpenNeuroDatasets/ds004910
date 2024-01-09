@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/XX/P7/SHA256E-s168--28b9940d3ec354ebd8e0c6e3be59692ee115d7f3344da80c0cd50d6e4e314d3b.qc.txt/SHA256E-s168--28b9940d3ec354ebd8e0c6e3be59692ee115d7f3344da80c0cd50d6e4e314d3b.qc.txt
