@@ -19,5 +19,8 @@
     "Name": "An open relaxation-diffusion MRI dataset in neurosurgical studies",
     "ReferencesAndLinks": [
         "https://dryewu.github.io"
+    ],
+    "EthicsApprovals": [
+        "All participants provided written informed consent before participation and signed informed consent regarding publishing their data. The Research Ethics Committee, Faculty of Medicine in Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, China approved the study protocols."
     ]
 }
