@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/mQ/XX/SHA256E-s168--5043befb7ba3c52375b8f0a283bac2e1f3d044b60e9430016fb998e4b44ee755.qc.txt/SHA256E-s168--5043befb7ba3c52375b8f0a283bac2e1f3d044b60e9430016fb998e4b44ee755.qc.txt

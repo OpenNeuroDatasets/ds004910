@@ -1,1 +1,0 @@
-../../../../../.git/annex/objects/KQ/z2/SHA256E-s168--4d3be321b86f80aaabd1eab55f4f7930e1d9b74dd1cfd3546cd5ef1492523db5.qc.txt/SHA256E-s168--4d3be321b86f80aaabd1eab55f4f7930e1d9b74dd1cfd3546cd5ef1492523db5.qc.txt
